@@ -12,23 +12,23 @@
 ---
 Debian:
   pkg:
-    name: TEMPLATE-debian
-  config: /etc/TEMPLATE.d/custom.conf
+    name: mygithub-debian
+  config: /etc/mygithub.d/custom.conf
 
 RedHat:
   pkg:
-    name: TEMPLATE-redhat
-  config: /etc/TEMPLATE.conf
+    name: mygithub-redhat
+  config: /etc/mygithub.conf
 
 Suse:
   pkg:
-    name: TEMPLATE-suse
+    name: mygithub-suse
 
 Gentoo: {}
 
 Arch:
   pkg:
-    name: TEMPLATE-arch
+    name: mygithub-arch
   service:
     name: service-arch
 

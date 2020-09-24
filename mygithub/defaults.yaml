@@ -1,15 +1,15 @@
 # -*- coding: utf-8 -*-
 # vim: ft=yaml
 ---
-TEMPLATE:
+mygithub:
   pkg:
-    name: TEMPLATE
+    name: mygithub
   rootgroup: root
-  config: '/etc/TEMPLATE'
+  config: '/etc/mygithub'
   service:
-    name: TEMPLATE
+    name: mygithub
   subcomponent:
-    config: '/etc/TEMPLATE-subcomponent-formula.conf'
+    config: '/etc/mygithub-subcomponent-formula.conf'
   # Just here for testing
   added_in_defaults: defaults_value
   winner: defaults
