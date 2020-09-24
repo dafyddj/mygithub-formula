@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.0.1](https://github.com/dafyddj/mygithub-formula/compare/v1.0.0...v1.0.1) (2020-09-24)
+
+
+### Bug Fixes
+
+* setup-go ([e980855](https://github.com/dafyddj/mygithub-formula/commit/e98085581f11d871376aa3cf470985474ac09677))
+
+
+### Continuous Integration
+
+* **semantic-release:** run in GitHub Actions ([07a0429](https://github.com/dafyddj/mygithub-formula/commit/07a042973b7b05c0d1ce1725c0204dd29b950809))
+* **setup-go:** use in release.yml ([c1d51e8](https://github.com/dafyddj/mygithub-formula/commit/c1d51e837886f97efa38de122faacf9bb8d18e41))
+
+
+### Documentation
+
+* add 1 ([29e9f07](https://github.com/dafyddj/mygithub-formula/commit/29e9f0726fe0b3b94a650898202d8a2dc5add011))
+
 # 1.0.0 (2020-09-24)
 
 
