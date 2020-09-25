@@ -2,6 +2,22 @@
 Changelog
 =========
 
+`1.0.2 <https://github.com/dafyddj/mygithub-formula/compare/v1.0.1...v1.0.2>`_ (2020-09-25)
+-----------------------------------------------------------------------------------------------
+
+Continuous Integration
+^^^^^^^^^^^^^^^^^^^^^^
+
+
+* run in GitHub Actions (\ `8dc407e <https://github.com/dafyddj/mygithub-formula/commit/8dc407e627542ed52b06a90574aac387f374992f>`_\ )
+* run in GitHub Actions (\ `dedd17b <https://github.com/dafyddj/mygithub-formula/commit/dedd17b9e2ce8d2d5ac02655b2fb9fa9e8e7738c>`_\ )
+
+Documentation
+^^^^^^^^^^^^^
+
+
+* add somethin2 (\ `85058aa <https://github.com/dafyddj/mygithub-formula/commit/85058aabecfa70fa7abb134d1a401193bf323fb2>`_\ )
+
 `1.0.1 <https://github.com/dafyddj/mygithub-formula/compare/v1.0.0...v1.0.1>`_ (2020-09-24)
 -----------------------------------------------------------------------------------------------
 
