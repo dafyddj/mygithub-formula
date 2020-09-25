@@ -19,7 +19,7 @@ mygithub-formula
    :target: https://github.com/pre-commit/pre-commit
 
 A SaltStack formula that is empty. It has dummy content to help with a quick
-start on a new formula and it serves as a style guide. Adding something.
+start on a new formula and it serves as a style guide. Adding something. Adding something2.
 
 .. contents:: **Table of Contents**
    :depth: 1
